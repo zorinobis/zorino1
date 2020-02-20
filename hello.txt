@@ -2,3 +2,6 @@
 ligne en conflit
 j'ai changé la ligne
 j'ajoute une ligne
+j'ai changé la ligne
+j'ai changé la ligne
+j'ajoute une ligne
